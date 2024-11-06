@@ -9,8 +9,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/geminix/internal/prompt"
-	"github.com/geminix/pkg/gemini"
+	"github.com/alpernae/geminix/internal/prompt"
+	"github.com/alpernae/geminix/pkg/gemini"
 )
 
 func main() {
