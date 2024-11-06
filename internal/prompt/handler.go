@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/geminix/pkg/gemini"
+	"github.com/alpernae/geminix/pkg/gemini"
 	"github.com/google/generative-ai-go/genai"
 )
 
