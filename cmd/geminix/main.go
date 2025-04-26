@@ -74,7 +74,7 @@ func main() {
     }
 
     // Chat başlatma ve cevap alma
-    model := client.GenerativeModel("gemini-1.5-flash")
+    model := client.GenerativeModel("gemma-3-1b-it")
     model.SetTemperature(1)
     model.SetTopK(40)
     model.SetTopP(0.95)
